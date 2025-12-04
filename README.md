@@ -35,6 +35,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Budgie Desktop 探索筆記](https://samwhelp.github.io/note-about-budgie/) | [GitHub](https://github.com/samwhelp/note-about-budgie) |
+| [Debian Budgie 探索筆記](https://samwhelp.github.io/note-about-debian-budgie/) | [GitHub](https://github.com/samwhelp/note-about-debian-budgie) |
 | [Ubuntu Budgie 探索筆記](https://samwhelp.github.io/note-about-ubuntu-budgie/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-budgie) |
 | [Fedora Budgie 探索筆記](https://samwhelp.github.io/note-about-fedora-budgie/) | [GitHub](https://github.com/samwhelp/note-about-fedora-budgie) |
 | [Ultramarine Budgie 探索筆記](https://samwhelp.github.io/note-about-ultramarine-budgie/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-budgie) |
