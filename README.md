@@ -25,6 +25,7 @@
 | ------- |
 | [Solus Budgie Config](https://github.com/samwhelp/solus-budgie-adjustment/tree/main/prototype/main/budgie-config) |
 | [Tool Config](https://github.com/samwhelp/solus-adjustment/tree/main/prototype/main/tool-config/part) |
+| [簡易微調](https://github.com/samwhelp/solus-budgie-adjustment/tree/main/demo/scripts/main/budgie-adjustment) |
 
 
 
@@ -33,9 +34,10 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
-| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
-| [Linux Mint 探索筆記](https://samwhelp.github.io/note-about-linuxmint/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint) |
+| [Budgie Desktop 探索筆記](https://samwhelp.github.io/note-about-budgie/) | [GitHub](https://github.com/samwhelp/note-about-budgie) |
+| [Ubuntu Budgie 探索筆記](https://samwhelp.github.io/note-about-ubuntu-budgie/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-budgie) |
+| [Fedora Budgie 探索筆記](https://samwhelp.github.io/note-about-fedora-budgie/) | [GitHub](https://github.com/samwhelp/note-about-fedora-budgie) |
+| [Ultramarine Budgie 探索筆記](https://samwhelp.github.io/note-about-ultramarine-budgie/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-budgie) |
 
 
 
